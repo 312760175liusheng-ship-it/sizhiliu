@@ -1,0 +1,10 @@
+{
+  "name": "sizhiliu",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "思之流 · 一个本地优先的信息流回顾空间",
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}
